@@ -53,11 +53,15 @@ A comprehensive Flutter mobile application designed to digitize campus canteen o
 
 | Login Screen | Menu Screen | Cart Screen | Order Tracking |
 |:------------:|:-----------:|:-----------:|:--------------:|
-| ![Login](screenshots/login.png) | ![Menu](screenshots/menu.png) | ![Cart](screenshots/cart.png) | ![Tracking](screenshots/tracking.png) |
+| ![Login](screenshots/login.jpeg) | ![Menu](screenshots/menu.jpeg) | ![Cart](screenshots/cart.jpeg) | ![Tracking](screenshots/tracking.jpeg) |
 
 | Wallet Screen | Admin Dashboard | Order Management | Dark Mode |
 |:-------------:|:---------------:|:----------------:|:---------:|
-| ![Wallet](screenshots/wallet.png) | ![Dashboard](screenshots/admin_dashboard.png) | ![Orders](screenshots/order_mgmt.png) | ![Dark](screenshots/dark_mode.png) |
+| ![Wallet](screenshots/wallet.jpeg) | ![Dashboard](screenshots/admin_dashboard.jpeg) | ![Orders](screenshots/order_mgmt.jpeg) | ![Dark](screenshots/dark_mode.jpeg) |
+
+| Ai Recommendation |
+| :---------------: |
+| ![AI recommendation](screenshots/ai.jpeg) |
 
 ---
 

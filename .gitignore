@@ -86,6 +86,7 @@ lib/generated_plugin_registrant.dart
 
 # API Keys and sensitive data
 lib/config/api_keys.dart
+lib/firebase_options.dart
 *.env
 .env
 
@@ -96,7 +97,6 @@ coverage/
 .firebase/
 firebase-debug.log
 firestore-debug.log
-lib/widgets/firebase_options.dart
 
 # MacOS
 .DS_Store
