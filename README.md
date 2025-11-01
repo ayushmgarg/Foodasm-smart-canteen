@@ -14,19 +14,14 @@ A comprehensive Flutter mobile application designed to digitize campus canteen o
 - [Features](#-features)
 - [Screenshots](#-screenshots)
 - [Tech Stack](#-tech-stack)
-- [Architecture](#-architecture)
 - [Installation](#-installation)
 - [Firebase Setup](#-firebase-setup)
 - [Running the App](#-running-the-app)
 - [Project Structure](#-project-structure)
-- [Configuration](#-configuration)
 - [API Integration](#-api-integration)
 - [Testing](#-testing)
-- [Known Issues](#-known-issues)
-- [Future Enhancements](#-future-enhancements)
 - [Contributing](#-contributing)
 - [License](#-license)
-- [Contact](#-contact)
 
 ---
 
