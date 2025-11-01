@@ -440,63 +440,6 @@ flutter test
 flutter test --coverage
 ```
 
-### Manual Testing Checklist
-
-- [ ] User Registration & Login
-- [ ] Browse Menu & Search
-- [ ] Add to Cart & Update Quantity
-- [ ] Place Order with Sufficient Balance
-- [ ] Place Order with Insufficient Balance
-- [ ] Wallet Top-up with Correct Password
-- [ ] Wallet Top-up with Wrong Password
-- [ ] Real-time Order Status Updates
-- [ ] Admin Order Management
-- [ ] Admin Menu Management
-- [ ] Theme Switching
-- [ ] AI Recommendations
-
----
-
-## 🐛 Known Issues
-
-1. **Image Caching:** First-time image loads may be slow
-   - **Solution:** Pre-cache images or optimize image URLs
-
-2. **Real-time Listeners:** May cause memory leaks if not disposed properly
-   - **Solution:** Always dispose StreamSubscriptions in dispose()
-
-3. **Theme Persistence:** Theme resets after app restart
-   - **Solution:** Store theme preference in SharedPreferences (planned)
-
----
-
-## 🚀 Future Enhancements
-
-### Phase 1 (Q1 2025)
-- [ ] UPI Payment Integration (PhonePe, GPay, Paytm)
-- [ ] User Reviews & Ratings
-- [ ] Push Notifications
-- [ ] Group Ordering Feature
-
-### Phase 2 (Q2 2025)
-- [ ] Nutrition & Calorie Tracking
-- [ ] Advanced Analytics Dashboard
-- [ ] Loyalty Rewards Program
-- [ ] Multi-language Support
-
-### Phase 3 (Q3 2025)
-- [ ] Voice Ordering
-- [ ] Chatbot Support
-- [ ] Smartwatch Integration
-- [ ] Progressive Web App (PWA)
-
-### Phase 4 (Q4 2025)
-- [ ] Multi-campus Support
-- [ ] Desktop Application
-- [ ] IoT Kitchen Integration
-- [ ] Advanced AI Features
-
----
 
 ## 🤝 Contributing
 
@@ -508,15 +451,6 @@ Contributions are welcome! Please follow these steps:
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-### Coding Standards
-
-- Follow [Effective Dart](https://dart.dev/guides/language/effective-dart) guidelines
-- Write meaningful commit messages
-- Add comments for complex logic
-- Update README if adding new features
-- Test your changes before submitting PR
-
----
 
 ## 📄 License
 
@@ -524,47 +458,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-## 👨‍💻 Contact
 
-**Project Maintainer:** [Your Name]
-
-- Email: [your.email@example.com]
-- LinkedIn: [Your LinkedIn Profile]
-- GitHub: [@yourusername](https://github.com/yourusername)
-
-**Project Link:** [https://github.com/yourusername/foodasm-smart-canteen](https://github.com/yourusername/foodasm-smart-canteen)
-
----
-
-## 🙏 Acknowledgments
-
-- [Flutter Team](https://flutter.dev) for the amazing framework
-- [Firebase Team](https://firebase.google.com) for backend services
-- [Google AI](https://ai.google.dev) for Gemini API
-- [Material Design](https://material.io) for design guidelines
-- [MPSTME](https://mpstme.nmims.edu) for project guidance
-
----
-
-## 📊 Project Statistics
-
-- **Development Time:** 6 Days
-- **Lines of Code:** 8,000+
-- **Screens:** 20+
-- **Firebase Collections:** 5
-- **Food Items:** 50+
-- **Test Cases:** 25+
-
----
-
-## 🎯 Project Status
-
-![Status](https://img.shields.io/badge/Status-Production%20Ready-success)
-![Build](https://img.shields.io/badge/Build-Passing-brightgreen)
-![Coverage](https://img.shields.io/badge/Coverage-85%25-green)
-
-**Current Version:** 1.0.0  
-**Last Updated:** [Current Date]
-
----
 
