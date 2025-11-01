@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "515885768543",
+    "project_id": "foodasm-mad-project",
+    "storage_bucket": "foodasm-mad-project.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:515885768543:android:f3d63af926a36b3351a0ea",
+        "android_client_info": {
+          "package_name": "com.example.smart_canteen"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCTypWuSrRzk2JZva_2Mn2zSuARGMXmT_0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
