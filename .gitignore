@@ -96,7 +96,7 @@ coverage/
 .firebase/
 firebase-debug.log
 firestore-debug.log
-lib/widget/firebase_options.dart
+lib/widgets/firebase_options.dart
 
 # MacOS
 .DS_Store
