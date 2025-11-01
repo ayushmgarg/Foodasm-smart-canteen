@@ -102,3 +102,8 @@ firestore-debug.log
 
 # MacOS
 .DS_Store
+
+#others
+pubspec.lock
+.metadata
+firebase.json
